@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SplineDataToTex.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/User/Desktop/New_Odo/Intermediate/Build/Win64/x64/New_OdoEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/User/Desktop/New_Odo/Plugins/SplineDataToTex/Intermediate/Build/Win64/x64/UnrealEditor/Development/SplineDataToTex/Module.SplineDataToTex.cpp.obj"
+"C:/Users/User/Desktop/New_Odo/Plugins/SplineDataToTex/Intermediate/Build/Win64/x64/UnrealEditor/Development/SplineDataToTex/Actor_FishClowds.cpp.obj"
+"C:/Users/User/Desktop/New_Odo/Plugins/SplineDataToTex/Intermediate/Build/Win64/x64/UnrealEditor/Development/SplineDataToTex/SplineDataToTex.cpp.obj"
+"C:/Users/User/Desktop/New_Odo/Plugins/SplineDataToTex/Intermediate/Build/Win64/x64/UnrealEditor/Development/SplineDataToTex/Default.rc2.res"
+/OUT:"C:/Users/User/Desktop/New_Odo/Plugins/SplineDataToTex/Intermediate/Build/Win64/x64/UnrealEditor/Development/SplineDataToTex/UnrealEditor-SplineDataToTex.lib"

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\desktop\\new_odo\\plugins\\splinedatatotex\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\splinedatatotex\\module.splinedatatotex.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\desktop\\new_odo\\intermediate\\build\\win64\\x64\\new_odoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\desktop\\new_odo\\plugins\\splinedatatotex\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\splinedatatotex\\definitions.splinedatatotex.h",
+            "c:\\users\\user\\desktop\\new_odo\\plugins\\splinedatatotex\\intermediate\\build\\win64\\unrealeditor\\inc\\splinedatatotex\\uht\\actor_fishclowds.gen.cpp",
+            "c:\\users\\user\\desktop\\new_odo\\plugins\\splinedatatotex\\source\\splinedatatotex\\public\\actor_fishclowds.h",
+            "c:\\users\\user\\desktop\\new_odo\\plugins\\splinedatatotex\\intermediate\\build\\win64\\unrealeditor\\inc\\splinedatatotex\\uht\\actor_fishclowds.generated.h",
+            "c:\\users\\user\\desktop\\new_odo\\plugins\\splinedatatotex\\intermediate\\build\\win64\\unrealeditor\\inc\\splinedatatotex\\uht\\splinedatatotex.init.gen.cpp",
+            "c:\\users\\user\\desktop\\new_odo\\plugins\\splinedatatotex\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\splinedatatotex\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

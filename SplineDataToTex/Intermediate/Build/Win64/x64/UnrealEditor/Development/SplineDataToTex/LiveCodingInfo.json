@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SplineDataToTex.cpp.obj": [
+			"Actor_FishClowds.gen.cpp.obj",
+			"SplineDataToTex.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"Actor_FishClowds.cpp.obj",
+			"SplineDataToTex.cpp.obj"
+		]
+	}
+}

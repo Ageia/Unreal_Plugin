@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SplineDataToTex.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"SplineDataToTex.cpp.obj"
+		]
+	}
+}
